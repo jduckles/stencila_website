@@ -1,0 +1,9 @@
+source: https://raw.githubusercontent.com/stencila/stencila/refs/heads/main/docs/reference/schema/works/figure.md
+description: Schema reference for  works figure
+title: Schema -  works figure
+config:
+  publish:
+    ghost:
+      tags: ['#schema', '#doc', 'Works']
+      state: publish
+      type: post

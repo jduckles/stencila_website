@@ -1,0 +1,9 @@
+source: https://raw.githubusercontent.com/stencila/stencila/refs/heads/main/docs/reference/schema/works/publication-volume.md
+description: Schema reference for  works publication-volume
+title: Schema -  works publication-volume
+config:
+  publish:
+    ghost:
+      tags: ['#schema', '#doc', 'Works']
+      state: publish
+      type: post

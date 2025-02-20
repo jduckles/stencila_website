@@ -1,0 +1,9 @@
+source: https://raw.githubusercontent.com/stencila/stencila/refs/heads/main/docs/reference/schema/flow/code-location.md
+description: Schema reference for  flow code-location
+title: Schema -  flow code-location
+config:
+  publish:
+    ghost:
+      tags: ['#schema', '#doc', 'Flow']
+      state: publish
+      type: post

@@ -1,0 +1,9 @@
+source: https://raw.githubusercontent.com/stencila/stencila/refs/heads/main/docs/reference/schema/works/collection.md
+description: Schema reference for  works collection
+title: Schema -  works collection
+config:
+  publish:
+    ghost:
+      tags: ['#schema', '#doc', 'Works']
+      state: publish
+      type: post

@@ -1,0 +1,9 @@
+source: https://raw.githubusercontent.com/stencila/stencila/refs/heads/main/docs/reference/schema/prose/list.md
+description: Schema reference for  prose list
+title: Schema -  prose list
+config:
+  publish:
+    ghost:
+      tags: ['#schema', '#doc', 'Prose']
+      state: publish
+      type: post

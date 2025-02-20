@@ -1,0 +1,9 @@
+source: https://raw.githubusercontent.com/stencila/stencila/refs/heads/main/docs/reference/schema/edits/instruction-message.md
+description: Schema reference for  edits instruction-message
+title: Schema -  edits instruction-message
+config:
+  publish:
+    ghost:
+      tags: ['#schema', '#doc', 'Edits']
+      state: publish
+      type: post

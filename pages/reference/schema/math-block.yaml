@@ -1,0 +1,9 @@
+source: https://raw.githubusercontent.com/stencila/stencila/refs/heads/main/docs/reference/schema/math/math-block.md
+description: Schema reference for  math math-block
+title: Schema -  math math-block
+config:
+  publish:
+    ghost:
+      tags: ['#schema', '#doc', 'Math']
+      state: publish
+      type: post

@@ -1,0 +1,9 @@
+source: https://raw.githubusercontent.com/stencila/stencila/refs/heads/main/docs/reference/schema/works/chat.md
+description: Schema reference for  works chat
+title: Schema -  works chat
+config:
+  publish:
+    ghost:
+      tags: ['#schema', '#doc', 'Works']
+      state: publish
+      type: post

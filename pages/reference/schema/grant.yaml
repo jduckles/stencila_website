@@ -1,0 +1,9 @@
+source: https://raw.githubusercontent.com/stencila/stencila/refs/heads/main/docs/reference/schema/other/grant.md
+description: Schema reference for  other grant
+title: Schema -  other grant
+config:
+  publish:
+    ghost:
+      tags: ['#schema', '#doc', 'Other']
+      state: publish
+      type: post

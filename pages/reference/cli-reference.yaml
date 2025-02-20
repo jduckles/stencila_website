@@ -1,0 +1,10 @@
+source: https://raw.githubusercontent.com/stencila/stencila/refs/heads/main/docs/reference/cli.md
+title: "Command Line Tool Reference"
+config: 
+  publish: 
+    ghost: 
+      state: publish
+      type: post 
+      tags: ["Reference", "#doc"]
+      slug: reference-cli
+

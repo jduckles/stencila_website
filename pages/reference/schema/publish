@@ -1,0 +1,9 @@
+#!/bin/bash 
+
+MD=$1
+TARGET=stencila.dnz.nz
+KEY=679c038afcb8ba0001922a63:b34f1cefb4759822b5e858b662aaa5f6729b0e6604a729495c2d3640afb6dc0e
+
+stencila="cargo run --manifest-path /Users/jduckles/git/stencila/stencila/Cargo.toml --bin stencila"
+
+$stencila publish ghost --trace ${MD} --ghost ${TARGET} --key ${KEY} 

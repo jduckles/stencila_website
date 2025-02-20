@@ -1,0 +1,9 @@
+source: https://raw.githubusercontent.com/stencila/stencila/refs/heads/main/docs/reference/schema/flow/if-block.md
+description: Schema reference for  flow if-block
+title: Schema -  flow if-block
+config:
+  publish:
+    ghost:
+      tags: ['#schema', '#doc', 'Flow']
+      state: publish
+      type: post

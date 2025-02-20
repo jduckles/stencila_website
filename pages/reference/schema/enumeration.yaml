@@ -1,0 +1,9 @@
+source: https://raw.githubusercontent.com/stencila/stencila/refs/heads/main/docs/reference/schema/other/enumeration.md
+description: Schema reference for  other enumeration
+title: Schema -  other enumeration
+config:
+  publish:
+    ghost:
+      tags: ['#schema', '#doc', 'Other']
+      state: publish
+      type: post

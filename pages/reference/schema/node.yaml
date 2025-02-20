@@ -1,0 +1,9 @@
+source: https://raw.githubusercontent.com/stencila/stencila/refs/heads/main/docs/reference/schema/other/node.md
+description: Schema reference for  other node
+title: Schema -  other node
+config:
+  publish:
+    ghost:
+      tags: ['#schema', '#doc', 'Other']
+      state: publish
+      type: post

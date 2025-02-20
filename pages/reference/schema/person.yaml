@@ -1,0 +1,9 @@
+source: https://raw.githubusercontent.com/stencila/stencila/refs/heads/main/docs/reference/schema/other/person.md
+description: Schema reference for  other person
+title: Schema -  other person
+config:
+  publish:
+    ghost:
+      tags: ['#schema', '#doc', 'Other']
+      state: publish
+      type: post

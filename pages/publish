@@ -1,0 +1,6 @@
+#!/bin/bash 
+
+MD=$1
+source .env
+
+stencila publish ghost ${MD} --ghost stencila.ghost.io 

@@ -1,0 +1,9 @@
+source: https://raw.githubusercontent.com/stencila/stencila/refs/heads/main/docs/reference/schema/other/relative-position.md
+description: Schema reference for  other relative-position
+title: Schema -  other relative-position
+config:
+  publish:
+    ghost:
+      tags: ['#schema', '#doc', 'Other']
+      state: publish
+      type: post

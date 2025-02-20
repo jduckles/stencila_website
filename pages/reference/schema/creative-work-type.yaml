@@ -1,0 +1,9 @@
+source: https://raw.githubusercontent.com/stencila/stencila/refs/heads/main/docs/reference/schema/works/creative-work-type.md
+description: Schema reference for  works creative-work-type
+title: Schema -  works creative-work-type
+config:
+  publish:
+    ghost:
+      tags: ['#schema', '#doc', 'Works']
+      state: publish
+      type: post

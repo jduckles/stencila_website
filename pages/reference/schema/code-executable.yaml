@@ -1,0 +1,9 @@
+source: https://raw.githubusercontent.com/stencila/stencila/refs/heads/main/docs/reference/schema/code/code-executable.md
+description: Schema reference for  code code-executable
+title: Schema -  code code-executable
+config:
+  publish:
+    ghost:
+      tags: ['#schema', '#doc', 'Code']
+      state: publish
+      type: post

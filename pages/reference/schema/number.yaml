@@ -1,0 +1,9 @@
+source: https://raw.githubusercontent.com/stencila/stencila/refs/heads/main/docs/reference/schema/data/number.md
+description: Schema reference for  data number
+title: Schema -  data number
+config:
+  publish:
+    ghost:
+      tags: ['#schema', '#doc', 'Data']
+      state: publish
+      type: post

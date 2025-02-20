@@ -1,0 +1,9 @@
+source: https://raw.githubusercontent.com/stencila/stencila/refs/heads/main/docs/reference/schema/code/compilation-message.md
+description: Schema reference for  code compilation-message
+title: Schema -  code compilation-message
+config:
+  publish:
+    ghost:
+      tags: ['#schema', '#doc', 'Code']
+      state: publish
+      type: post

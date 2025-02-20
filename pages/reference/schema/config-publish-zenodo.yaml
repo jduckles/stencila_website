@@ -1,0 +1,9 @@
+source: https://raw.githubusercontent.com/stencila/stencila/refs/heads/main/docs/reference/schema/config/config-publish-zenodo.md
+description: Schema reference for  config config-publish-zenodo
+title: Schema -  config config-publish-zenodo
+config:
+  publish:
+    ghost:
+      tags: ['#schema', '#doc', 'Config']
+      state: publish
+      type: post

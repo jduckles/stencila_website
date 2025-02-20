@@ -1,0 +1,9 @@
+source: https://raw.githubusercontent.com/stencila/stencila/refs/heads/main/docs/reference/schema/edits/suggestion.md
+description: Schema reference for  edits suggestion
+title: Schema -  edits suggestion
+config:
+  publish:
+    ghost:
+      tags: ['#schema', '#doc', 'Edits']
+      state: publish
+      type: post

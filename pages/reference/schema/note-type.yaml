@@ -1,0 +1,9 @@
+source: https://raw.githubusercontent.com/stencila/stencila/refs/heads/main/docs/reference/schema/prose/note-type.md
+description: Schema reference for  prose note-type
+title: Schema -  prose note-type
+config:
+  publish:
+    ghost:
+      tags: ['#schema', '#doc', 'Prose']
+      state: publish
+      type: post

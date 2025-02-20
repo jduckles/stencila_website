@@ -1,0 +1,9 @@
+source: https://raw.githubusercontent.com/stencila/stencila/refs/heads/main/docs/reference/schema/code/code-chunk.md
+description: Schema reference for  code code-chunk
+title: Schema -  code code-chunk
+config:
+  publish:
+    ghost:
+      tags: ['#schema', '#doc', 'Code']
+      state: publish
+      type: post

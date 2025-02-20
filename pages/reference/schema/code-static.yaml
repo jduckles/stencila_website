@@ -1,0 +1,9 @@
+source: https://raw.githubusercontent.com/stencila/stencila/refs/heads/main/docs/reference/schema/code/code-static.md
+description: Schema reference for  code code-static
+title: Schema -  code code-static
+config:
+  publish:
+    ghost:
+      tags: ['#schema', '#doc', 'Code']
+      state: publish
+      type: post

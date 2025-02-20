@@ -1,0 +1,9 @@
+source: https://raw.githubusercontent.com/stencila/stencila/refs/heads/main/docs/reference/schema/edits/instruction.md
+description: Schema reference for  edits instruction
+title: Schema -  edits instruction
+config:
+  publish:
+    ghost:
+      tags: ['#schema', '#doc', 'Edits']
+      state: publish
+      type: post

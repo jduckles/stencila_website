@@ -1,0 +1,9 @@
+source: https://raw.githubusercontent.com/stencila/stencila/refs/heads/main/docs/reference/schema/prose/superscript.md
+description: Schema reference for  prose superscript
+title: Schema -  prose superscript
+config:
+  publish:
+    ghost:
+      tags: ['#schema', '#doc', 'Prose']
+      state: publish
+      type: post

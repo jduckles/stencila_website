@@ -1,0 +1,9 @@
+source: https://raw.githubusercontent.com/stencila/stencila/refs/heads/main/docs/reference/schema/data/primitive.md
+description: Schema reference for  data primitive
+title: Schema -  data primitive
+config:
+  publish:
+    ghost:
+      tags: ['#schema', '#doc', 'Data']
+      state: publish
+      type: post

@@ -1,0 +1,9 @@
+source: https://raw.githubusercontent.com/stencila/stencila/refs/heads/main/docs/reference/schema/data/timestamp.md
+description: Schema reference for  data timestamp
+title: Schema -  data timestamp
+config:
+  publish:
+    ghost:
+      tags: ['#schema', '#doc', 'Data']
+      state: publish
+      type: post

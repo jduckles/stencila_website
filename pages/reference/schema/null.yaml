@@ -1,0 +1,9 @@
+source: https://raw.githubusercontent.com/stencila/stencila/refs/heads/main/docs/reference/schema/data/null.md
+description: Schema reference for  data null
+title: Schema -  data null
+config:
+  publish:
+    ghost:
+      tags: ['#schema', '#doc', 'Data']
+      state: publish
+      type: post

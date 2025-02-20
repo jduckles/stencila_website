@@ -1,0 +1,9 @@
+source: https://raw.githubusercontent.com/stencila/stencila/refs/heads/main/docs/reference/schema/prose/citation-intent.md
+description: Schema reference for  prose citation-intent
+title: Schema -  prose citation-intent
+config:
+  publish:
+    ghost:
+      tags: ['#schema', '#doc', 'Prose']
+      state: publish
+      type: post

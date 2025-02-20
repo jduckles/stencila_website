@@ -1,0 +1,9 @@
+source: https://raw.githubusercontent.com/stencila/stencila/refs/heads/main/docs/reference/schema/data/integer-validator.md
+description: Schema reference for  data integer-validator
+title: Schema -  data integer-validator
+config:
+  publish:
+    ghost:
+      tags: ['#schema', '#doc', 'Data']
+      state: publish
+      type: post

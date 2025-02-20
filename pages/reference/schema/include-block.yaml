@@ -1,0 +1,9 @@
+source: https://raw.githubusercontent.com/stencila/stencila/refs/heads/main/docs/reference/schema/flow/include-block.md
+description: Schema reference for  flow include-block
+title: Schema -  flow include-block
+config:
+  publish:
+    ghost:
+      tags: ['#schema', '#doc', 'Flow']
+      state: publish
+      type: post

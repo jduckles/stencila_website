@@ -1,0 +1,9 @@
+source: https://raw.githubusercontent.com/stencila/stencila/refs/heads/main/docs/reference/schema/code/execution-message.md
+description: Schema reference for  code execution-message
+title: Schema -  code execution-message
+config:
+  publish:
+    ghost:
+      tags: ['#schema', '#doc', 'Code']
+      state: publish
+      type: post

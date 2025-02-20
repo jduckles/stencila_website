@@ -1,0 +1,9 @@
+source: https://raw.githubusercontent.com/stencila/stencila/refs/heads/main/docs/reference/schema/config/config-publish.md
+description: Schema reference for  config config-publish
+title: Schema -  config config-publish
+config:
+  publish:
+    ghost:
+      tags: ['#schema', '#doc', 'Config']
+      state: publish
+      type: post

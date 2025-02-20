@@ -1,0 +1,9 @@
+source: https://raw.githubusercontent.com/stencila/stencila/refs/heads/main/docs/reference/schema/flow/execution-dependency.md
+description: Schema reference for  flow execution-dependency
+title: Schema -  flow execution-dependency
+config:
+  publish:
+    ghost:
+      tags: ['#schema', '#doc', 'Flow']
+      state: publish
+      type: post

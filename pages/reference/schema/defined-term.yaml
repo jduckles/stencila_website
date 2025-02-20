@@ -1,0 +1,9 @@
+source: https://raw.githubusercontent.com/stencila/stencila/refs/heads/main/docs/reference/schema/prose/defined-term.md
+description: Schema reference for  prose defined-term
+title: Schema -  prose defined-term
+config:
+  publish:
+    ghost:
+      tags: ['#schema', '#doc', 'Prose']
+      state: publish
+      type: post

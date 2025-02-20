@@ -1,0 +1,9 @@
+source: https://raw.githubusercontent.com/stencila/stencila/refs/heads/main/docs/reference/schema/style/styled-block.md
+description: Schema reference for  style styled-block
+title: Schema -  style styled-block
+config:
+  publish:
+    ghost:
+      tags: ['#schema', '#doc', 'Style']
+      state: publish
+      type: post

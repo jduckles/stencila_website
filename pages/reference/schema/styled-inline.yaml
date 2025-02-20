@@ -1,0 +1,9 @@
+source: https://raw.githubusercontent.com/stencila/stencila/refs/heads/main/docs/reference/schema/style/styled-inline.md
+description: Schema reference for  style styled-inline
+title: Schema -  style styled-inline
+config:
+  publish:
+    ghost:
+      tags: ['#schema', '#doc', 'Style']
+      state: publish
+      type: post
